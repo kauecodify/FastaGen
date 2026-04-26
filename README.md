@@ -1,3 +1,5 @@
+<img width="200" height="100" alt="spyder" src="https://github.com/user-attachments/assets/a47dd855-54f2-4366-8c4c-cebb56c7b71a" />
+
 # FastaGen
 
 ```markdown
