@@ -2,6 +2,8 @@
 
 # FastaGen
 
+<img width="1193" height="729" alt="image" src="https://github.com/user-attachments/assets/5363ca59-d4bc-4a26-8129-97ac8e0ba9e1" />
+
 ```markdown
 # FastaGen - Ferramenta de Análise Genômica
 
