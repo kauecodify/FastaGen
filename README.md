@@ -1,6 +1,6 @@
-<img width="200" height="100" alt="spyder" src="https://github.com/user-attachments/assets/a47dd855-54f2-4366-8c4c-cebb56c7b71a" />
-
 # FastaGen
+
+<img width="200" height="100" alt="spyder" src="https://github.com/user-attachments/assets/a47dd855-54f2-4366-8c4c-cebb56c7b71a" /><img width="100" height="50" alt="biopython" src="https://github.com/user-attachments/assets/d4a569dd-cf6f-45ff-859d-9a3e1e5c7f73" />
 
 <img width="1193" height="729" alt="image" src="https://github.com/user-attachments/assets/5363ca59-d4bc-4a26-8129-97ac8e0ba9e1" />
 
